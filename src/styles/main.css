@@ -1,0 +1,18 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 16px;
+}
+
+h1 {
+  color: red;
+}
+/*# sourceMappingURL=main.css.map */
